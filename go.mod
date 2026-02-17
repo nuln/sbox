@@ -3,7 +3,7 @@ module github.com/nuln/sbox
 go 1.24.4
 
 require (
-	github.com/rclone/rclone v1.73.0
+	github.com/rclone/rclone v1.73.1
 	github.com/spf13/afero v1.15.0
 )
 
@@ -19,7 +19,7 @@ require (
 	github.com/coreos/go-semver v0.3.1 // indirect
 	github.com/coreos/go-systemd/v22 v22.6.0 // indirect
 	github.com/ebitengine/purego v0.9.1 // indirect
-	github.com/go-chi/chi/v5 v5.2.3 // indirect
+	github.com/go-chi/chi/v5 v5.2.5 // indirect
 	github.com/go-darwin/apfs v0.0.0-20211011131704-f84b94dbf348 // indirect
 	github.com/go-git/go-billy/v5 v5.6.2 // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
@@ -54,6 +54,7 @@ require (
 	github.com/unknwon/goconfig v1.0.0 // indirect
 	github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
+	github.com/zeebo/assert v1.3.1 // indirect
 	github.com/zeebo/blake3 v0.2.4 // indirect
 	github.com/zeebo/xxh3 v1.0.2 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
